@@ -6,4 +6,4 @@ These projects showcase my skills and knowledge in Java programming and serve as
 ------------
 
 Please note that these projects are shared for educational and reference purposes only.
-While I have made efforts to ensure the quality and correctness of the code, it is always advisable to review and test the code before using any of it.
+While I have made efforts to ensure the quality and correctness of the code, it is always advisable to review and test the code before using any of it. Keep in mind many of the pieces of code I have worked on are just parts of a separate and larger whole. These may not clarify the intended use.
